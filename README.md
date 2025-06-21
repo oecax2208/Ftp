@@ -8,24 +8,6 @@
 
 </p>
 
-# Welcome to Servyrun
-
-### What is Servyrun?
-
-Servyrun is a self-hosted web application built with React JS + Tailwind CSS for the frontend and the backend of PHP
-Laravel.
-Servyrun allows you to run basic SSH & SFTP commands, do network pings between your servers, download, upload & edit files,
-view database tables and column structures and run MySQLdump.
-
-Servyrun should not be used as your main connection to your servers but rather an easy method to monitor, be informed
-and do small tasks all through the web panel rather than an SSH client.
-
-Servyrun was developed to be a multi-user platform, stores passwords encrypted and has an extensive API.
-
-[Demo website](https://servyrun.corbpie.com/) (read only functions enabled)
-
-The full features of Servyrun as of September 2023:
-
 - Store Server information
 - Store SSH keys
 - Run SSH commands
